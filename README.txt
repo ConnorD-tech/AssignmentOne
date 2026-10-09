@@ -1,3 +1,11 @@
+
+!!!!!I don't know how to prove the other certifications because the others don't give out badges like CSS does
+but my average WAVE accessibility score over all 4 pages was an 8.375/10.
+
+!!!!!The Link checker also did not find any broken links.
+
+
+
 The Dimensions I chose to use for this website are almost all in percentages, the width is all in percentages
 so that mobile users still have accessibility since their screen is smaller, the heights are mostly a static
 height because it still needs to be able to fit all of the required content and in some instances it needs
